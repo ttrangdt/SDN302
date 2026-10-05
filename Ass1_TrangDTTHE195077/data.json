@@ -36,20 +36,6 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "articleId": 1,
-      "author": "Pham Thi D",
-      "content": "This is a useful introduction to Node.js.",
-      "date": "2026-09-04"
-    },
-    {
-      "id": 2,
-      "articleId": 1,
-      "author": "Hoang Van E",
-      "content": "I would like to learn more about Node.js.",
-      "date": "2026-09-04"
-    },
-    {
       "id": 3,
       "articleId": 2,
       "author": "Nguyen Van F",
@@ -69,6 +55,20 @@
       "author": "Le Thi H",
       "content": "REST API is an important topic for backend development.",
       "date": "2026-09-06"
+    },
+    {
+      "id": 6,
+      "articleId": 2,
+      "author": "Pham",
+      "content": "This is a useful introduction to Node.js.",
+      "date": "2026-09-04"
+    },
+    {
+      "id": 7,
+      "articleId": 2,
+      "author": "Pham",
+      "content": "This is a useful introduction to Node.js.",
+      "date": "2026-09-04"
     }
   ]
 }
